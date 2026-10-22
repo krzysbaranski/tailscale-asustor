@@ -1,0 +1,8 @@
+Tailscale for ASUSTOR NAS - Changelog
+
+Version 1.78.2-1 (2026-10-22)
+-----------------------------
+* Initial ASUSTOR packaging for Tailscale
+* Includes the official tailscale and tailscaled binaries
+* Provides symlinks in /bin for easy command-line usage
+* Intended for user-initiated authentication via `tailscale up`

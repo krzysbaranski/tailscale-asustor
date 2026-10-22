@@ -1,0 +1,5 @@
+build/
+staging/
+*.apk
+*.tar.gz
+*.tgz

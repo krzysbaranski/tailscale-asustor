@@ -1,0 +1,25 @@
+{
+  "general": {
+    "package": "tailscale",
+    "name": "Tailscale",
+    "version": "1.78.2-1",
+    "depends": [],
+    "conflicts": [],
+    "developer": "Tailscale Inc.",
+    "maintainer": "krzysbaranski",
+    "email": "",
+    "website": "https://tailscale.com",
+    "architecture": "x86-64",
+    "firmware": "5.1",
+    "description": "Tailscale VPN client for ASUSTOR NAS",
+    "license": "BSD-3-Clause"
+  },
+  "register": {
+    "symbolic-link": {
+      "/bin": [
+        "tailscale",
+        "tailscaled"
+      ]
+    }
+  }
+}

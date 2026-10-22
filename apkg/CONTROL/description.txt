@@ -1,0 +1,9 @@
+Tailscale is a secure network overlay that lets your ASUSTOR NAS connect to your tailnet and access devices securely from anywhere.
+
+Features:
+- Secure mesh network with WireGuard
+- Simple client and daemon installation
+- Works with your existing Tailscale account
+- Suitable for remote NAS administration and secure access
+
+This package installs the Tailscale client and daemon on your ASUSTOR NAS.
